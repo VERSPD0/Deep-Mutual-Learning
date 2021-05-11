@@ -1,0 +1,14 @@
+data/cifar100-tfrecord/*
+cifar100_dml_mobilenet_v1/*
+cifar100_dml_resnet44/*
+data/image
+data/cifar-100-python.tar.gz
+data/Market-1501-v15.09.15.zip
+data/cifar-100-python/*
+market1501_dml_mobilenet/*
+*/__pycache__/*
+__pycache__/*
+.idea/*
+.DS_Store
+.vscode/*
+data/*
